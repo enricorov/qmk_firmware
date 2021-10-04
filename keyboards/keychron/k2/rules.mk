@@ -61,3 +61,6 @@ DIP_SWITCH_ENABLE = yes
 # Custom RGB matrix handling
 RGB_MATRIX_ENABLE = yes
 RGB_MATRIX_DRIVER = custom
+
+# Dynamic macros
+DYNAMIC_MACRO_ENABLE = yes
